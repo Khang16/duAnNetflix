@@ -1,0 +1,6 @@
+@media only screen and (max-width: 600px) {
+    .input_email{
+        display: grid;
+        grid-template-columns: auto;
+    }
+}
